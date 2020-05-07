@@ -1,8 +1,3 @@
-/* Jay Younger, jyounger
- * CS 152, Winter 2020
- * Project Phase 2
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
