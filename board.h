@@ -1,8 +1,3 @@
-/* Jay Younger, jyounger
- * CS 152, Winter 2020
- * Project Phase 2
- */
-
 #ifndef BOARD_H
 #define BOARD_H
 
