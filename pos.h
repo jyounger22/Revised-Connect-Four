@@ -1,8 +1,3 @@
-/* Jay Younger, jyounger
- * CS 152, Winter 2020
- * Project Phase 2
- */
-
 #ifndef POS_H
 #define POS_H
 
